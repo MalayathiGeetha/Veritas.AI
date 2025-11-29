@@ -1,0 +1,13 @@
+langgraph
+langchain
+pydantic
+langchain-openai
+langchain-community
+tavily-python
+beautifulsoup4
+python-dotenv
+langchain-google-genai
+google-generativeai
+faiss-cpu
+fastapi
+uvicorn
