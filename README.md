@@ -240,8 +240,8 @@ This project is released under the MIT License. See LICENSE for details. (If you
 ---
 
 ## 15. Contact
-Maintainer: Vignesh Kamsala (Vignesh-Kamsala)  
-Repository: https://github.com/Vignesh-Kamsala/Veritas.AI
+Maintainer: Malayathi Geetha
+Repository: https://github.com/malayathigeetha/Veritas.AI
 
 For partnership, pilot requests, or media inquiries, open an issue or contact via the project repository.
 
