@@ -1,7 +1,7 @@
-````markdown name=README.md url=https://github.com/Vignesh-Kamsala/Veritas.AI/blob/main/README.md
+```
 # Veritas.AI — Unfiltered, Unbiased, Fact‑Checked
 
-[Veritas.AI]: https://github.com/Vignesh-Kamsala/Veritas.AI
+[Veritas.AI]: https://github.com/malayathigeetha/Veritas.AI
 
 Veritas.AI is a multi-agent, hybrid verification intelligence platform that validates and continuously updates the authenticity of news, images, and videos in real time. It combines AI-driven automation with human oversight to provide fast, explainable, and auditable fact-checking.
 
